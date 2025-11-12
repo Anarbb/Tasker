@@ -1,5 +1,9 @@
 # Tasker
 
+<p align="center">
+  <img src="tasker.png" alt="Tasker Icon" width="200"/>
+</p>
+
 ## Features
 
 - **Simple interface**: Create, edit, and delete cron jobs without touching the command line
