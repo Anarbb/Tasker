@@ -1,7 +1,5 @@
 # Tasker
 
-A simple GTK4 GUI for managing cron jobs on Linux. This project was inspired by a [discussion on r/linuxmint](https://www.reddit.com/r/linuxmint/comments/1hur3xp/gui_for_cron/) where users were looking for a graphical interface to manage their scheduled tasks.
-
 ## Features
 
 - **Simple interface**: Create, edit, and delete cron jobs without touching the command line
