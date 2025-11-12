@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Tasker
+Comment=A simple GTK4 GUI for managing cron jobs
+Exec=tasker
+Icon=tasker
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=true
+
