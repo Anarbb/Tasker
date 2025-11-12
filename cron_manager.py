@@ -1,6 +1,6 @@
 """Cron manager for reading/writing crontab entries.
 
-Copyright (C) 2024  Anas Arbaoui
+Copyright (C) 2025  Anas Arbaoui
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

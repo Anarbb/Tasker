@@ -143,5 +143,5 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 See the [LICENSE](LICENSE) file for details, or visit [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
 
-Copyright (C) 2024 Anas Arbaoui
+Copyright (C) 2025 Anas Arbaoui
 
